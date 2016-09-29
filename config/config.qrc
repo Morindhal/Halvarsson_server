@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Halvarsson JSON menu</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,23 @@
+TODO:
+Await your laurels.
+
+DONE:
+Move table, order and attribute code into the server.
+Parse this information and send to a client on connection creation. (do this in a seperate function called from on_connect)
+Change the click on order to move to the order tab, clear whatever was there before and display the clicked order.
+Parse the information recieved on the client to create the UI.
+Send a event to the server instead of directly updating the client UI.
+Cache the events the server recieves and send the events to all clients, use a currentEvent integer to achieve this.
+Display order events recieved if the, the event ID may or may not be used at this time. <-- ? visa upp klientens nylagda order
+Look in to using some sort of QDate and the ability to send this between server/client.
+Fix the QDateTime object to display a creation-current time.
+
+
+HALFWAY DONE:
+Fix the client UI to allow addition of new orders and attributes on specific tables. <-- not quite done but I will no longer do attributes in the first iteration
+Add a connect address input and do a button-effect similar to the servers on/off buttons. <--  Only halfway done, finish this when time allows!
+
+
+NOTE TO SELF:
+Research changing tabs when a order object is clicked, this can also be used to create a new order is possible.  <-- Done
+This may solve my current frontend UI problem.      <-- It did

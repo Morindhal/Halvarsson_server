@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/beer.png</file>
+        <file>icons/champagne.png</file>
+        <file>icons/drink.png</file>
+        <file>icons/fish.png</file>
+        <file>icons/Five_Finger_Love_Punch.png</file>
+        <file>icons/food-1.png</file>
+        <file>icons/food.png</file>
+        <file>icons/Lemming_Ragu.png</file>
+        <file>icons/Moby_Dick's_Lasagna.png</file>
+        <file>icons/pizza.png</file>
+        <file>icons/Salmon_Halvarsson.png</file>
+        <file>icons/sandwich.png</file>
+        <file>icons/steak.png</file>
+        <file>icons/turkey.png</file>
+        <file>icons/Extra.png</file>
+    </qresource>
+</RCC>

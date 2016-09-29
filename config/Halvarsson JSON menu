@@ -1,0 +1,113 @@
+{
+    "order":
+    {
+        "Extra":
+        {
+            "Picture":"Extra.png",
+            "Description":"Add an attribute like drinks or addons without a primary order.",
+            "Free":
+            [[]]
+        },
+        "Salmon Halvarsson":
+        {
+            "Picture":"Salmon_Halvarsson.png",
+            "Description":"Our Famous fishy thing with a touch of Cajun.",
+            "Free":
+            [
+                ["French Fries","Rice","Baked Potato","Mashed Potatoes","Potato Wedges"]
+            ]
+        },
+        "Lemming Ragu":
+        {
+            "Picture":"Lemming_Ragu.png",
+            "Description":"Nah, just kidding. It's an amazing chicken thing, spicy and rich in flavor.",
+            "Free":
+            [
+                ["French Fries","Rice","Baked Potato","Mashed Potatoes","Potato Wedges"]
+            ]
+        },
+        "Five Finger Lover Punch":
+        {
+            "Picture":"Five_Finger_Lover_Punch.png",
+            "Description":"Five Finger size (André the giant size), amazing steak grilled to perfection.",
+            "Free":
+            [
+                ["French Fries","Rice","Baked Potato","Mashed Potatoes","Potato Wedges"]
+            ]
+        },
+        "Moby Dick's Lasagna":
+        {
+            "Picture":"Moby_Dick's_Lasagna.png",
+            "Description":"The ocean never tasted so good...",
+            "Free":
+            [
+                ["French Fries","Rice","Baked Potato","Mashed Potatoes","Potato Wedges"]
+            ]
+        }
+    },
+    "attribute":
+    {
+        "Addons":
+        {
+            "French Fries":
+            {
+                "Picture":"French Fries.png",
+                "Price":12
+            },
+            "Rice":
+            {
+                "Picture":"Rice.png",
+                "Price":15
+            },
+            "Baked Potato":
+            {
+                "Picture":"Baked_Potato.png",
+                "Price":20
+            },
+            "Mashed Potatoes":
+            {
+                "Picture":"Mashed_Potatoes.png",
+                "Price":15
+            },
+            "Potato Wedges":
+            {
+                "Picture":"Potato_Wedges.png",
+                "Price":12
+            }
+        },
+        "Drinks"
+        {
+            "Coca-cola":
+            {
+                "Picture":"Coca-cola.png",
+                "Price":20
+            },
+            "Trocadero":
+            {
+                "Picture":"Trocadero.png",
+                "Price":15
+            },
+            "Trocadero Light":
+            {
+                "Picture":"Trocadero_Light.png",
+                "Price":15
+            },
+            "BBB Beer":
+            {
+                "Picture":"BBB.png",
+                "Price":20
+            },
+            "Falcon Bayersk":
+            {
+                "Picture":"Falcon_Bayersk.png",
+                "Price":20
+            },
+            "Champagne":
+            {
+                "Picture":"Champagne.png",
+                "Price":30
+            },
+            
+        }
+    }
+}
